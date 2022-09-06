@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\ReverseWord\bin\Debug\ReverseWord.exe.config
+C:\Users\hp\source\repos\ReverseWord\bin\Debug\ReverseWord.exe
+C:\Users\hp\source\repos\ReverseWord\bin\Debug\ReverseWord.pdb
+C:\Users\hp\source\repos\ReverseWord\obj\Debug\ReverseWord.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ReverseWord\obj\Debug\ReverseWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\ReverseWord\obj\Debug\ReverseWord.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ReverseWord\obj\Debug\ReverseWord.exe
+C:\Users\hp\source\repos\ReverseWord\obj\Debug\ReverseWord.pdb
